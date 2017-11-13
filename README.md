@@ -5,3 +5,9 @@ Commands:
 /maskshop
 
 it same lol
+
+I recommand you to
+
+use source code :p
+
+you cant edit heads aka masks
