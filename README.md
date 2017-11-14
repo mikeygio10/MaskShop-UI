@@ -1,3 +1,9 @@
+russian version:
+
+https://vk.com/plugplus?w=wall-121838923_12619
+
+
+
 Require Plugin:
 - EconomyAPI | https://poggit.pmmp.io/p/EconomyAPI/5.7.1-3
 
